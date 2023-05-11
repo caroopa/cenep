@@ -30,15 +30,15 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="/areas-tematicas/fecundidad.php">Fecundidad, salud reproductiva</a>
-                        <a class="dropdown-item" href="#">Salud, morbilidad, mortalidad</a>
-                        <a class="dropdown-item" href="#">Dinámica demográfica, envejecimiento, seguridad social</a>
-                        <a class="dropdown-item" href="#">Migración internacional</a>
-                        <a class="dropdown-item" href="#">Movilidad territorial y urbanización</a>
-                        <a class="dropdown-item" href="#">Hogares, familias, género</a>
-                        <a class="dropdown-item" href="#">Mercados de trabajo, pobreza, mujer y trabajo</a>
-                        <a class="dropdown-item" href="#">Educación y relaciones entre educación y trabajo</a>
-                        <a class="dropdown-item" href="#">Producción de información sociodemográfica local</a>
-                        <a class="dropdown-item" href="#">Violencia y delito, violencia doméstica y violencia de género</a>
+                        <a class="dropdown-item" href="/areas-tematicas/salud.php">Salud, morbilidad, mortalidad</a>
+                        <a class="dropdown-item" href="/areas-tematicas/dinamica.php">Dinámica demográfica, envejecimiento, seguridad social</a>
+                        <a class="dropdown-item" href="/areas-tematicas/migraciones.php">Migración internacional</a>
+                        <a class="dropdown-item" href="/areas-tematicas/movilidad.php">Movilidad territorial y urbanización</a>
+                        <a class="dropdown-item" href="/areas-tematicas/hogares.php">Hogares, familias, género</a>
+                        <a class="dropdown-item" href="/areas-tematicas/mercados.php">Mercados de trabajo, pobreza, mujer y trabajo</a>
+                        <a class="dropdown-item" href="/areas-tematicas/educacion.php">Educación y relaciones entre educación y trabajo</a>
+                        <a class="dropdown-item" href="/areas-tematicas/produccion.php">Producción de información sociodemográfica local</a>
+                        <a class="dropdown-item" href="/areas-tematicas/violencia.php">Violencia y delito, violencia doméstica y violencia de género</a>
                     </div>
                 </li>
 
@@ -47,9 +47,9 @@
                         Publicaciones del CENEP
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Cuadernos del CENEP</a>
-                        <a class="dropdown-item" href="#">Publicaciones co-editadas por el CENEP</a>
-                        <a class="dropdown-item" href="#">Documentos del trabajo del CENEP</a>
+                        <a class="dropdown-item" href="/publicaciones/cuadernos.php">Cuadernos del CENEP</a>
+                        <a class="dropdown-item" href="/publicaciones/publicaciones.php">Publicaciones co-editadas por el CENEP</a>
+                        <a class="dropdown-item" href="/publicaciones/documentos.php">Documentos del trabajo del CENEP</a>
                     </div>
                 </li>
 
