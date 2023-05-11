@@ -37,7 +37,7 @@
             <p>La estimaci&oacute;n de la magnitud del aborto provocado se realizar&aacute; por procedimientos indirectos basados en el n&uacute;mero de egresos hospitalarios por complicaciones de aborto y por un m&eacute;todo residual basado en la ecuaci&oacute;n de Bongaarts que relaciona los determinantes pr&oacute;ximos de la fecundidad con el nivel de &eacute;sta. La informaci&oacute;n sobre egresos hospitalarios proviene de los registros que lleva el Ministerio de Salud y Ambiente de la Naci&oacute;n.</p>
             <p>Los dem&aacute;s aspectos mencionados tendr&aacute;n como fuente de informaci&oacute;n una encuesta a mujeres internadas por complicaciones de aborto en hospitales p&uacute;blicos de Mendoza, Tucum&aacute;n, C&oacute;rdoba, Chaco y la ciudad de Rosario. La encuesta, que est&aacute; en etapa final de trabajo de campo, se aplica a una muestra de 400 mujeres en uno de los mencionados lugares.</p>
             <p>El estudio est&aacute; subsidiado a trav&eacute;s de Becas Carrillo-O&ntilde;ativia del Ministerio de Salud y Ambiente de la Naci&oacute;n.</p>
-            <p><strong>Difusi&oacute;n de resultados:</strong></p>
+            <p class="subtitulo">Difusi&oacute;n de resultados:</p>
             <p><strong>Mario, S. y E.A. Pantelides (2007)</strong> Estimaci&oacute;n de la magnitud del aborto inducido en la Argentina. Trabajo presentado en la XX Reuni&oacute;n Asociaci&oacute;n Latinoamericana de Investigadores en Reproducci&oacute;n Humana (ALIRH), Buenos Aires, 25 al 27 de abril.</p>
             <p class="titulo">&nbsp;</p>
             <p><span class="texto"><br>

@@ -37,7 +37,7 @@
             <p>Los conocimientos sobre anticoncepci&oacute;n son limitados y el uso dentro de parejas estables no es generalizado. Los hombres acompa&ntilde;an a sus parejas en la atenci&oacute;n prenatal, ven con frecuencia a sus hijos y contribuyen a su mantenimiento y cuidado.</p>
             <p>La mayor&iacute;a no justifica la violencia contra las mujeres, pero cuando se trata de la propia pareja est&aacute;n m&aacute;s predispuestos a justificarla.</p>
             <p>El proyecto finaliz&oacute; en 2005, y cont&oacute; con subsidio de la OPS y de la Deutsche Gessellschaft Fur Technishe Zusammerarbeit (GTZ).</p>
-            <p><strong>Difusi&oacute;n de resultados:</strong></p>
+            <p class="subtitulo">Difusi&oacute;n de resultados:</p>
             <p><strong>Pantelides, E. A. y H. Manzelli (2005)</strong> La salud sexual y reproductiva: tambi&eacute;n un asunto de hombres. Buenos Aires: OPS, Bundesministerium f&uuml;r wirtschaftliche Zusammenarbait und Entwicklung.<br>
               <strong>Pantelides, E. A y H. Manzelli (2005)</strong> &quot;Violencia en la pareja. Evidencias a partir de encuestas a hombres centroamericanos&quot;. Papeles de Poblaci&oacute;n, 11 (45): 247-270.
             </p>

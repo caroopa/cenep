@@ -41,7 +41,7 @@
                         <p>resumi&oacute; resultados de varias encuestas realizadas en los lugares de origen de las migraciones temporarias entre Bolivia y Argentina.</p>
                         <p>Los resultados alcanzados fueron b&aacute;sicamente de dos tipos: a) se elabor&oacute; un insumo b&aacute;sico requerido para la formulaci&oacute;n del Plan Estrat&eacute;gico de Acci&oacute;n para la Cuenca del R&iacute;o Bermejo, y b) luego de una sistematizaci&oacute;n e integraci&oacute;n de resultados de numerosos trabajos de investigaci&oacute;n sobre las dimensiones sociodemogr&aacute;ficas de la migraci&oacute;n internacional de bolivianos a la Argentina, se produjo nuevo conocimiento sobre las dimensiones demogr&aacute;ficas de la migraci&oacute;n de bolivianos a la Argentina y sus impacto en las poblaciones de Salta y Jujuy, por departamentos.</p>
                         <p>El proyecto fue financiado por la Organizaci&oacute;n de los Estados Americanos.</p>
-                        <p><strong>Difusi&oacute;n de resultados:</strong></p>
+                        <p class="subtitulo">Difusi&oacute;n de resultados:</p>
                         <p><strong>Lattes, A. E., M. Boleda y otros (2000)</strong>. Migraciones Transfronterizas en la Cuenca del R&iacute;o Bermejo. Vol. I y II. Buenos Aires y Salta: CENEP y GREDES, mimeo.</p>
                         </td>
                     </div>

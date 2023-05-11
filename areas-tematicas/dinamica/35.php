@@ -45,7 +45,7 @@
                             La mayor&iacute;a son propietarios de la vivienda que ocupan y poseen elementos de confort b&aacute;sicos. Casi un tercio de los m&aacute;s viejos entre ellos vive solo.<br>
                             Las transferencias intergeneracionales son frecuentes, variadas y ocurren en ambos sentidos.<br>
                             La investigaci&oacute;n finaliz&oacute; en el a&ntilde;o 2001 y fue financiada por el Banco Interamericano de Desarrollo y Organizaci&oacute;n Panamericana de la Salud.</p>
-                        <p><strong>Difusi&oacute;n de resultados:</strong></p>
+                        <p class="subtitulo">Difusi&oacute;n de resultados:</p>
                         <p><strong>Pantelides, E. A. (2003)</strong> Atenci&oacute;n de la salud y la tercera edad. Buenos Aires: CEDES, Serie Seminarios Salud y Pol&iacute;tica P&uacute;blica.<br>
                             <strong>Zunzunegui, M. V., S. A. Pinz&oacute;n, T. Engler, E. A. Pantelides, C. Albala y O. Prats (2002)</strong> Condiciones y estilos de vida. En: T. Engler y M. Pel&aacute;ez (eds.) M&aacute;s vale por viejo. Washington: BID - OPS, pp.105-124.<br>
                             <strong>Zunzunegui, M. V., S. A. Pinz&oacute;n, T. Engler, E. A. Pantelides, C. Albala y O. Prats (2002)</strong> Previsi&oacute;n, promesas y econom&iacute;a social. En: T. Engler y M. Pel&aacute;ez (eds.) M&aacute;s vale por viejo. Washington: BID - OPS, pp.125-148.<br>

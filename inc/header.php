@@ -58,9 +58,9 @@
                         Biblioteca del CENEP
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Cooperación</a>
-                        <a class="dropdown-item" href="#">Novedades mensuales</a>
-                        <a class="dropdown-item" href="#">Servicios</a>
+                        <a class="dropdown-item" href="/biblioteca/cooperacion.php">Cooperación</a>
+                        <a class="dropdown-item" href="/biblioteca/novedades.php">Novedades mensuales</a>
+                        <a class="dropdown-item" href="/biblioteca/servicios.php">Servicios</a>
                     </div>
                 </li>
 
