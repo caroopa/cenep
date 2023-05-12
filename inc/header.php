@@ -21,7 +21,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Investigadores/as</a>
+                    <a class="nav-link" href="/investigadores/investigadores.php">Investigadores/as</a>
                 </li>
 
                 <li class="nav-item dropdown">

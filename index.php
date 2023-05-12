@@ -42,7 +42,7 @@
                 <h1>Novedades</h1>
             </div>
             <div class="row lh-sm novedades-container">
-                <div class="col-md-3 mb-4">
+                <!-- <div class="col-md-3 mb-4">
                     <div class="novedad">
                         <p>Título novedad</p>
                     </div>
@@ -61,7 +61,8 @@
                     <div class="novedad">
                         <p>Título novedad</p>
                     </div>
-                </div>
+                </div> -->
+                <p>Proximamente.</p>
             </div>
         </div>
     </section>
