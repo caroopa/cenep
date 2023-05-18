@@ -35,20 +35,20 @@
                         <h3>Investigaciones</h3>
                         <ul>
                             <li>Maternidad de menores de 15 años </li>
-                            <li><a href="investigaciones/pantelides/02_01_02.html" onclick="window.open('investigaciones/pantelides/02_01_02.html','','scrollbars=yes,width=500,height=600');return false;">Morbilidad materna severa en la Argentina: prevención y calidad de la atención para reducir la incidencia y consecuencias adversas del aborto</a></li>
-                            <li><a href="investigaciones/pantelides/02_02_06.html" onclick="window.open('investigaciones/pantelides/02_02_06.html','','scrollbars=yes,width=500,height=600');return false;">Salud sexual y reproductiva adolescente en América latina y el Caribe</a></li>
-                            <li><a href="investigaciones/pantelides/02_02_07.html" onclick="window.open('investigaciones/pantelides/02_02_07.html','','scrollbars=yes,width=500,height=600');return false;"> Promoción de la participación de los hombres en la salud sexual y reproductiva en Centroamérica. Análisis comparativo</a></li>
-                            <li><a href="investigaciones/pantelides/02_01_08.html" onclick="window.open('investigaciones/pantelides/02_01_08.html','','scrollbars=yes,width=500,height=600');return false;"> La fecundidad adolescente en Argentina: diagnóstico sociodemográfico</a></li>
-                            <li><a href="investigaciones/pantelides/02_01_11.html" onclick="window.open('investigaciones/pantelides/02_01_11.html','','scrollbars=yes,width=500,height=600');return false;"> Línea de base para el Programa Nacional de Salud Reproductiva y Procreación Responsable</a></li>
-                            <li><a href="investigaciones/pantelides/02_03_03.html" onclick="window.open('investigaciones/pantelides/02_03_03.html','','scrollbars=yes,width=500,height=600');return false;"> Diagnóstico sociodemográfico de la población de la Ciudad de Buenos Aires</a></li>
-                            <li><a href="investigaciones/pantelides/02_01_16.html">Los varones frente al aborto</a></li>
-                            <li>Investigación comparativa (Argentina, Bolivia, Cuba y Perú) sobre la realidad y creencias en los procesos de toma de decisiones sexuales y reproductivas: las percepciones y los comportamientos masculinos</a></li>
-                            <li><a href="investigaciones/pantelides/02_02_20.html" onclick="window.open('investigaciones/pantelides/02_02_20.html','','scrollbars=yes,width=500,height=600');return false;"> Yo no quería pero... Iniciación sexual bajo coerción en adolescentes mujeres </a></li>
-                            <li><a href="investigaciones/pantelides/02_02_16.html" onclick="window.open('investigaciones/pantelides/02_02_16.html','','scrollbars=yes,width=500,height=600');return false;"> Salud, bienestar y envejecimiento (SA.B.E.)</a></li>
-                            <li><a href="investigaciones/pantelides/02_03_11.html" onclick="window.open('investigaciones/pantelides/02_03_11.html','','scrollbars=yes,width=500,height=600');return false;"> La población de la ciudad de Concordia, Entre Ríos</a></li>
-                            <li><a href="investigaciones/pantelides/02_01_23.html" onclick="window.open('investigaciones/pantelides/02_01_23.html','','scrollbars=yes,width=500,height=600');return false;"> Factores culturales y psicosociales en la prevención y el tratamiento de las enfermedades de transmisión sexual. Poder, afecto y placer en las negociaciones entre géneros</a></li>
-                            <li><a href="investigaciones/pantelides/02_01_28.html" onclick="window.open('investigaciones/pantelides/02_01_28.html','','scrollbars=yes,width=500,height=600');return false;"> Imágenes de género y conducta reproductiva en la adolescencia</a></li>
-                            <li><a href="investigaciones/pantelides/02_03_14.html" onclick="window.open('investigaciones/pantelides/02_03_14.html','','scrollbars=yes,width=500,height=600');return false;"> La pobreza en la tercera edad</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/2.php">Morbilidad materna severa en la Argentina: prevención y calidad de la atención para reducir la incidencia y consecuencias adversas del aborto</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/5.php">Salud sexual y reproductiva adolescente en América latina y el Caribe</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/7.php">Promoción de la participación de los hombres en la salud sexual y reproductiva en Centroamérica. Análisis comparativo</a></li>
+                            <li><a href="/areas-tematicas/dinamica/8.php">La fecundidad adolescente en Argentina: diagnóstico sociodemográfico</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/11.php">Línea de base para el Programa Nacional de Salud Reproductiva y Procreación Responsable</a></li>
+                            <li><a href="/areas-tematicas/dinamica/40.php">Diagnóstico sociodemográfico de la población de la Ciudad de Buenos Aires</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/16.php">Los varones frente al aborto</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/15.php">Investigación comparativa (Argentina, Bolivia, Cuba y Perú) sobre la realidad y creencias en los procesos de toma de decisiones sexuales y reproductivas: las percepciones y los comportamientos masculinos</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/22.php">Yo no quería pero... Iniciación sexual bajo coerción en adolescentes mujeres </a></li>
+                            <li><a href="/areas-tematicas/dinamica/35.php">Salud, bienestar y envejecimiento (SA.B.E.)</a></li>
+                            <li><a href="/areas-tematicas/dinamica/47.php">La población de la ciudad de Concordia, Entre Ríos</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/23.php">Factores culturales y psicosociales en la prevención y el tratamiento de las enfermedades de transmisión sexual. Poder, afecto y placer en las negociaciones entre géneros</a></li>
+                            <li><a href="/areas-tematicas/fecundidad/28.php">Imágenes de género y conducta reproductiva en la adolescencia</a></li>
+                            <li><a href="/areas-tematicas/dinamica/50.php"></a>La pobreza en la tercera edad</a></li>
                         </ul>
                         <h3>Publicaciones</h3>
                         <p>Pantelides, E. A. y Fernández, M.M. 2017, Las madres menores de 15 años. El caso Argentino. En: <em>Coyuntura Demográfica</em>, 11: 27-33.  </p>

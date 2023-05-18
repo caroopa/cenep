@@ -24,24 +24,24 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a class="no-activo" href="/investigadores/investigadores.php">Investigadores/as</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Rosa N. Geldstein</li>
+                            <li class="breadcrumb-item active" aria-current="page">Félix Abdala</li>
                         </ol>
                     </nav>
                     <div class="encabezado-separador">
-                        <h1>Rosa N. Geldstein</h1>
+                        <h1>Félix Abdala</h1>
                     </div>
                     <div class="texto">
                         <p><a href="cv/CV_Abdala.pdf" target="_blank">cv completo | </a><a href="mailto:fabdala@cenep.org.ar">fabdala@cenep.org.ar</a></p>
                         <p>Doctor (Ph. D) en Sociología (Demografía) de Fordham University, Magister en Ciencias Sociales (Sociología) de la Facultad Latinoamericana en Ciencias Sociales y Licenciado en Sociología de la Universidad Nacional de Cuyo.<br />En la actualidad, además de investigador del Centro de Estudios de Población-CENEP, es consultor del Centro de Investigaciones por Encuesta-CIE, de la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires y profesor de la Maestría de Políticas Públicas y Gobierno y de la Maestría en Derechos Humanos, ambas, de la Universidad Nacional de Lanus. Fue consultor de organizaciones internacionales y nacionales: de la Oficina Regional de Educación para América Latina y el Caribe-OREALC, de la OECD, (Proyecto Mundial de Indicadores Educativos), de la UNESCO (Programa Regional de Indicadores Educativos) y del Instituto de Planificación e Investigación Educativa (INEP)-Ministerio de Educación de Brasil; de la Dirección Nacional Red Federal de Información Educativa (1996 y 2000) y de la DiNIECE (2002-2006), Ministerio de Educación de la Nación; del PNUD y la Organización Mundial de la Salud. Fue profesor de la Maestría en Demografía Social (Universidad Nacional de Luján), de la Maestría y el Doctorado en Educación de la Universidad de San Andrés, y de la Maestría en Salud Publica de la Universidad de Buenos Aires. Ha recibido subsidios de investigación y becas del Programa de Naciones Unidas para el Desarrollo, la Organización Mundial de la Salud, el Instituto de Planificación e Investigación Educativa del Brasil) y la Fundación McArthur, del Population Council, Fordham University, la Facultad Latinoamericana en Ciencias Sociales y PREALC-OIT, entre otras.<br />Sus áreas de interés son: articulación entre educación y población, sistema comparativo de indicadores educativos internacionales, salud y crisis social y migraciones internas.</p>
                         <h3>Investigaciones</h3>
                         <ul>
-                            <li><a href="investigaciones/abdala/migraciones_internas.html" onclick="window.open('investigaciones/abdala/migraciones_internas.html','','scrollbars=yes,width=500,height=600');return false;">Migrantes internos y voto</a> </li>
-                            <li><a href="investigaciones/abdala/fragmentacion_educativa.html" onclick="window.open('investigaciones/abdala/fragmentacion_educativa.html','','scrollbars=yes,width=500,height=600');return false;">Fragmentación educativa </a></li>
-                            <li><a href="investigaciones/abdala/indicadores_salud_sexual.html" onclick="window.open('investigaciones/abdala/indicadores_salud_sexual.html','','scrollbars=yes,width=500,height=600');return false;">Indicadores de salud sexual y reproductiva </a></li>
-                            <li><a href="investigaciones/abdala/estudio_mercosur.html" onclick="window.open('investigaciones/abdala/estudio_mercosur.html','','scrollbars=yes,width=500,height=600');return false;">Estudio comparativo del Mercosur Educativo </a></li>
-                            <li><a href="investigaciones/abdala/02_02_04.html" onclick="window.open('investigaciones/abdala/02_02_04.html','','scrollbars=yes,width=500,height=600');return false;">Salud y crisis social </a></li>
-                            <li><a href="investigaciones/abdala/02_02_18.html" onclick="window.open('investigaciones/abdala/02_02_18.html','','scrollbars=yes,width=500,height=600');return false;">El impacto demográfico de bruscos cambios socioeconómicos </a></li>
-                            <li><a href="investigaciones/abdala/02_08_04.html" onclick="window.open('investigaciones/abdala/02_08_04.html','','scrollbars=yes,width=500,height=600');return false;">Desarrollo de una metodología para la realización de un diagnóstico de la situación de la población aborigen</a></li>
+                            <li><a href="investigaciones/abdala/migraciones_internas.php" onclick="window.open('investigaciones/abdala/migraciones_internas.html','','scrollbars=yes,width=500,height=600');return false;">Migrantes internos y voto</a> </li>
+                            <li><a href="investigaciones/abdala/fragmentacion_educativa.php" onclick="window.open('investigaciones/abdala/fragmentacion_educativa.html','','scrollbars=yes,width=500,height=600');return false;">Fragmentación educativa </a></li>
+                            <li><a href="investigaciones/abdala/indicadores_salud_sexual.php" onclick="window.open('investigaciones/abdala/indicadores_salud_sexual.html','','scrollbars=yes,width=500,height=600');return false;">Indicadores de salud sexual y reproductiva </a></li>
+                            <li><a href="/areas-tematicas/educacion/100.php">Estudio comparativo del Mercosur Educativo </a></li>
+                            <li><a href="/areas-tematicas/educacion/31.php">Salud y crisis social </a></li>
+                            <li><a href="/areas-tematicas/educacion/37.php">El impacto demográfico de bruscos cambios socioeconómicos </a></li>
+                            <li><a href="/areas-tematicas/produccion/113.php">Desarrollo de una metodología para la realización de un diagnóstico de la situación de la población aborigen</a></li>
                         </ul>
                         <h3>Publicaciones</h3>
                         <p><strong>Abdala, F., (2010)</strong>, “Población y educación”, en Alfredo E. Lattes, coord., Dinámica de una ciudad. Buenos Aires 1810-2010, Dirección General de Estadística y Censos, Gobierno de la Ciudad Autónoma de Buenos Aires.</p>
