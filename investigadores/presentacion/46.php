@@ -49,10 +49,10 @@
                             <li>Mujeres con diagnóstico reciente de VIH (2011)</li>
                             <li>El derecho a la educación de los niños/as y adolescentes indígenas: estado de situación en Argentina, desafíos y recomendaciones (2007-2009)</li>
                             <li>Asesoramiento técnico para el desarrollo de un sistema municipal de información sociodemográfica (2007-2009)</li>
-                            <li><a href="investigaciones/bruno/02_04_03.html" onclick="window.open('investigaciones/bruno/02_04_03.html','','scrollbars=yes,width=500,height=600');return false;"></a>Inserción ocupacional y trayectoria laboral de migrantes paraguayos y peruanos en el Área Metropolitana de Buenos Aires</a></li>
-                            <li><a href="investigaciones/bruno/" onclick="window.open('investigaciones/bruno/02_04_02.html','','scrollbars=yes,width=500,height=600');return false;">La generación, formas de envío y utilización de remesas en la migración paraguaya a la Argentina</a></li>
-                            <li><a href="investigaciones/bruno/" onclick="window.open('investigaciones/bruno/02_04_07.html','','scrollbars=yes,width=500,height=600');return false;">Dinámica e impacto de la migración del Perú y del Paraguay a la Argentina</a></li>
-                            <li><a href="investigaciones/bruno/02_04_09.html" onclick="window.open('investigaciones/bruno/02_04_09.html','','scrollbars=yes,width=500,height=600');return false;">Salud y migración en el contexto de la integración económica: el caso de Argentina y Paraguay</a></li>
+                            <li><a href="/areas-tematicas/mercados/82.php">Inserción ocupacional y trayectoria laboral de migrantes paraguayos y peruanos en el Área Metropolitana de Buenos Aires</a></li>
+                            <li><a href="/areas-tematicas/movilidad/52.php">La generación, formas de envío y utilización de remesas en la migración paraguaya a la Argentina</a></li>
+                            <li><a href="/areas-tematicas/mercados/84.php">Dinámica e impacto de la migración del Perú y del Paraguay a la Argentina</a></li>
+                            <li><a href="/areas-tematicas/fecunidad/19.php">Salud y migración en el contexto de la integración económica: el caso de Argentina y Paraguay</a></li>
                         </ul>
                         <h3>Publicaciones</h3>
                         <p>Las Voces de las y los adolescentes privados de libertad en Argentina. UNICEF-CENEP (2018) <a href="https://www.unicef.org/argentina/sites/unicef.org.argentina/files/2018-11/PRO_LasVocesAPL_web.pdf" target="_blank" style="font-family: verdana, geneva;">PDF</a></p>

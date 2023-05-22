@@ -23,7 +23,7 @@
                 <div class="contenedor-contenido">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a class="no-activo" href="/investigadores/investigadores.php">Investigadores/as</a></li>
+                            <li class="breadcrumb-item"><a class="no-activo" href="/investigadores/colaboradores.php">Colaboradores/as y asistentes/as</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Cecilia Velázquez</li>
                         </ol>
                     </nav>
