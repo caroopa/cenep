@@ -323,3 +323,10 @@ footer a:hover,
 .coloreado {
     color: var(--color-secundario);
 }
+  
+.container-imagen img {
+    float: left;
+    margin-right: 10px;
+    width: 250px;
+    height: auto;
+}
