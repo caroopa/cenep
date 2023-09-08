@@ -1,12 +1,17 @@
 <?php
+error_reporting(E_ALL);
+
+// Activar la visualización de errores en pantalla
+ini_set('display_errors', 1);
+
 $mensaje_login = "";
-include("inc/util/db_connect.php");
+include("util/db_connect.php");
 
 if(isset($_POST["username"]) && isset($_POST["password"])) {
 	$username = $_POST["username"];
 	$pass = $_POST["password"];
 
-	$sql = "select * from Usuarios";
+	$sql = "select * from usuarios";
 	$sql .= " where Username = '" . $username . "'";
 	$sql .= " and Password = '" . $pass . "'";
 
@@ -15,12 +20,13 @@ if(isset($_POST["username"]) && isset($_POST["password"])) {
 	if($sesion->num_rows != 0) {
         session_start();
 		$_SESSION["sesion"] = true;
-		header('Location:index.php');		
+		header('Location:index.php');
+		exit;	
 	}
 	else {
 		$mensaje_login = "El usuario o la contraseña son incorrectos.</br>Intente nuevamente.";
 	}
 }
 
-include("inc/util/db_close.php");
+include("util/db_close.php");
 ?>

@@ -1,3 +1,5 @@
+<?php include("config/login.php"); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,9 +19,6 @@
     <div class="contenedor-login">
         <h1>Administrador</h1>
         <img src="/img/logo.png" alt="Logo">
-
-        <?php include("config/login.php"); ?>
-
         <form class="form-login" method="POST">
             <input name="username" type="text" placeholder="Usuario">
             <input name="password" type="password" placeholder="Contraseña">

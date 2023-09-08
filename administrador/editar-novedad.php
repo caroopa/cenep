@@ -1,3 +1,5 @@
+<?php include("config/sesion.php"); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,7 +17,6 @@
 
 <body>
     <?php
-    include("config/sesion.php");
     include("inc/header.php");
 
     if (!isset($_GET["modo"])) {
