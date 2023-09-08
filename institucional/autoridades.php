@@ -28,18 +28,18 @@
                     <div class="texto">
                         <p>El CENEP es administrado por una Comisión Directiva y una Asamblea General de Asociados. La tarea de programación, gestión y evaluación de sus actividades académicas está bajo la responsabilidad de un Director y un Consejo de Investigadores, integrado por sus miembros de planta.</p>
                         <h3>Dirección</h3>
-                        <p>Hernán Manzelli - <a href="mailto:rgeldstein@cenep.org.ar">hernan@cenep.org.ar</a></p>
-                        <h3>Comisión Directiva (2022-2026)</h3>
+                        <p>Hernán Manzelli - <a href="mailto:hernan@cenep.org.ar">hernan@cenep.org.ar</a></p>
+                        <h3>Comisión Directiva (2023-2025)</h3>
                         <u>Presidente</u>
                         <p>Martín J. Moreno</p>
                         <u>Tesorera</u>
                         <p>Georgina Binstock</p>
                         <u>Secretario</u>
-                        <p>Matias Bruno</p>
-                        <u>Vocal</u>
                         <p>Pablo Comelatto</p>
+                        <u>Vocal</u>
+                        <p>Marcela S. Cerrutti</p>
                         <u>Vocal suplente</u>
-                        <p>Marcela Cerrutti</p>
+                        <p>Matías Bruno</p>
                     </div>
                 </div>
             </div>
