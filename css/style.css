@@ -128,7 +128,7 @@ a, a:hover {
     padding: 2rem;
 }
 
-/* -----NOVEDADES----- */
+/* -----PRESENTACIÓN Y NOVEDADES----- */
 
 .division-seccion {
     margin-top: 5rem;
@@ -182,6 +182,16 @@ a, a:hover {
 .novedad p {
     color: white;
     font-weight: bold;
+}
+
+.proximamente {
+    text-align: center;
+}
+
+@media only screen and (max-width: 575px){
+    .presentacion-container {
+        width: 100%;
+    }
 }
 
 /* -----FOOTER----- */

@@ -63,7 +63,7 @@
                         <p>Título novedad</p>
                     </div>
                 </div> -->
-                <p>Proximamente.</p>
+                <p class="proximamente">Próximamente.</p>
             </div>
         </div>
     </section>
