@@ -7,11 +7,11 @@
             <a href="/investigadores/investigadores.php">
                 <li>Investigadores/as</li>
             </a>
-            <a href="/investigadores/visitantes.php">
-                <li>Investigadores/as visitantes</li>
-            </a>
             <a href="/investigadores/invitados.php">
                 <li>Investigadores/as invitados</li>
+            </a>
+            <a href="/investigadores/visitantes.php">
+                <li>Investigadores/as visitantes</li>
             </a>
             <a href="/investigadores/becarios.php">
                 <li>Becarios/as</li>
