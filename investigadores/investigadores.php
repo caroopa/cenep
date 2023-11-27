@@ -26,7 +26,7 @@
                         <h1>Investigadores/as del CENEP</h1>
                     </div>
                     <div class="texto">
-                        <p><a href="presentacion/32.php">Félix Abdala</a></p>
+                        <!-- <p><a href="presentacion/32.php">Félix Abdala</a></p> -->
                         <p>Gabriela Benza</p>
                         <p><a href="presentacion/33.php">Rodolfo Bertoncello</a></p>
                         <p><a href="presentacion/29.php">Georgina Binstock</a></p>
@@ -34,14 +34,17 @@
                         <p><a href="presentacion/47.php">Juan Martín Bustos</a></p>
                         <p><a href="presentacion/30.php">Marcela Cerrutti</a></p>
                         <p><a href="presentacion/38.php">Pablo Comelatto</a></p>
-                        <p><a href="presentacion/26.php">Ma. Antonia Gallart (Emérita) </a></p>
+                        <!-- <p><a href="presentacion/26.php">Ma. Antonia Gallart (Emérita) </a></p> -->
                         <p><a href="presentacion/31.php">Rosa N. Geldstein</a></p>
                         <p><a href="presentacion/27.php">Alfredo Lattes</a></p>
+                        <p><a href="presentacion/50.php">Alicia Maguid</a></p>
                         <p><a href="presentacion/37.php">Hernán Manzelli</a></p>
                         <p><a href="presentacion/35.php">Martín J. Moreno</a></p>
                         <p><a href="presentacion/28.php">Edith Alejandra Pantelides</a></p>
-                        <p><a href="presentacion/39.php">Zulma Recchini de Lattes (Emérita) </a></p>
-                        <p><a href="presentacion/40.php">Catalina Wainerman (Emérita)</a></p>
+                        <!-- <p><a href="presentacion/39.php">Zulma Recchini de Lattes (Emérita) </a></p> -->
+                        <!-- <p><a href="presentacion/40.php">Catalina Wainerman (Emérita)</a></p> -->
+                        <p>Nicolás Sacco</p>
+                        <p><a href="presentacion/70.php">Ana Safranoff</a></p>
                     </div>
                 </div>
             </div>
