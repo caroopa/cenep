@@ -33,6 +33,8 @@ h3,
 
 body {
     background-color: var(--color-quinto);
+    min-height: 100vh;
+    position: relative;
 }
 
 a, a:hover {
@@ -201,6 +203,9 @@ footer{
     padding: 5rem 0;
     display: flex;
     justify-content: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer .row {
@@ -270,9 +275,9 @@ footer a:hover,
 }
 
 .body {
-    margin: 3rem 0;
+    margin-top: 3rem;
     max-width: 1200px;
-    min-height: calc(100vh - 528px);
+    padding-bottom: 22rem;
 }
 
 .contenedor-body {
