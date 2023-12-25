@@ -13,7 +13,59 @@
     <div class="textarea-container">
       <label>Contenido:</label>
       <textarea id="editor" name="contenido">{{ $method == 'PUT' ? $element->contenido : '' }}</textarea>
+      <div class="invalid-feedback">
+        Campo obligatorio.
+      </div>
     </div>
+
+    <script>
+      (function() {
+        'use strict';
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.querySelectorAll('.needs-validation');
+
+        // Loop over them and prevent submission
+        Array.prototype.slice.call(forms).forEach(function(form) {
+          form.addEventListener('submit', function(event) {
+            // Función para validar un CKEditor
+            function validateCKEditor(editorName) {
+              var editor = CKEDITOR.instances[editorName];
+
+              if (editor && editor.getData().trim() === '') {
+                // CKEditor está vacío, por lo que evitamos la validación del formulario
+                event.preventDefault();
+                event.stopPropagation();
+
+                // Agregar clase de Bootstrap para resaltar el error
+                editor.container.$.classList.add('is-invalid');
+
+                // Hacer scroll hacia el CKEditor
+                editor.container.$.scrollIntoView({
+                  behavior: 'smooth',
+                  block: 'center'
+                });
+
+                return false;
+              }
+
+              return true;
+            }
+
+            // Validar CKEditor para el campo "presentacion"
+            var presentacionIsValid = validateCKEditor('editor');
+
+            // Resto de la lógica de validación del formulario
+            if (!form.checkValidity() || !presentacionIsValid || !contactoIsValid || !tituloIsValid) {
+              event.preventDefault();
+              event.stopPropagation();
+            }
+
+            form.classList.add('was-validated');
+          }, false);
+        });
+      })();
+    </script>
   @elseif ($belong->tipo == 'article')
     <div class="textarea-container">
       <label>Descripción:</label>
@@ -22,7 +74,8 @@
 
     <div class="input-container">
       <label>Título para subpáginas:</label>
-      <input class="form-control" type="text" name="subtitulo" value="{{ $method == 'PUT' ? $element->subtitulo : '' }}">
+      <input class="form-control" type="text" name="subtitulo"
+        value="{{ $method == 'PUT' ? $element->subtitulo : '' }}">
     </div>
 
     <div class="textarea-container">

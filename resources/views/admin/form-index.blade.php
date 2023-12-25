@@ -3,7 +3,7 @@
 @section('content-editor')
   <div class="textarea-container">
     <label>Título:</label>
-    <textarea id="editor" name="titulo" id="titulo">{{ $element->titulo }}</textarea>
+    <textarea id="editor" name="titulo">{{ $element->titulo }}</textarea>
     <div class="invalid-feedback">
       Campo obligatorio.
     </div>
@@ -11,7 +11,7 @@
 
   <div class="textarea-container">
     <label>Presentación:</label>
-    <textarea id="editor1" name="presentacion" id="presentacion">{{ $element->presentacion }}</textarea>
+    <textarea id="editor1" name="presentacion">{{ $element->presentacion }}</textarea>
     <div class="invalid-feedback">
       Campo obligatorio.
     </div>
@@ -28,7 +28,7 @@
 
   <div class="textarea-container">
     <label>Contacto:</label>
-    <textarea id="editor2" name="contacto" id="contacto">{{ $element->contacto }}</textarea>
+    <textarea id="editor2" name="contacto">{{ $element->contacto }}</textarea>
     <div class="invalid-feedback">
       Campo obligatorio.
     </div>
@@ -77,7 +77,7 @@
               // Hacer scroll hacia el CKEditor
               editor.container.$.scrollIntoView({
                 behavior: 'smooth',
-                block: 'start'
+                block: 'center'
               });
 
               return false;
@@ -87,13 +87,13 @@
           }
 
           // Validar CKEditor para el campo "presentacion"
-          var presentacionIsValid = validateCKEditor('presentacion');
+          var presentacionIsValid = validateCKEditor('editor');
 
           // Validar CKEditor para el campo "contacto"
-          var contactoIsValid = validateCKEditor('contacto');
+          var contactoIsValid = validateCKEditor('editor1');
 
           // Validar CKEditor para el campo "titulo"
-          var tituloIsValid = validateCKEditor('titulo');
+          var tituloIsValid = validateCKEditor('editor2');
 
           // Resto de la lógica de validación del formulario
           if (!form.checkValidity() || !presentacionIsValid || !contactoIsValid || !tituloIsValid) {
