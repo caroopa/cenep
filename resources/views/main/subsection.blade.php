@@ -20,7 +20,6 @@
           @endforeach
         </ul>
       @endif
-      <h3>Publicaciones</h3>
       {!! $subsection->publicaciones !!}
     @elseif ($subsection->tipo == 'inv')
       @foreach ($subsection->invs as $inv)

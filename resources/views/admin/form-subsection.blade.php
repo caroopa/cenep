@@ -68,7 +68,7 @@
     </script>
   @elseif ($belong->tipo == 'article')
     <div class="textarea-container">
-      <label>Descripción:</label>
+      <label>Contenido anterior:</label>
       <textarea id="editor" name="descripcion">{{ $method == 'PUT' ? $element->descripcion : '' }}</textarea>
     </div>
 
@@ -79,7 +79,7 @@
     </div>
 
     <div class="textarea-container">
-      <label>Publicaciones:</label>
+      <label>Contenido posterior:</label>
       <textarea id="editor1" name="publicaciones">{{ $method == 'PUT' ? $element->publicaciones : '' }}</textarea>
     </div>
   @endif
