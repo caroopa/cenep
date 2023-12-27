@@ -32,7 +32,7 @@
   </div>
 
   <div class="textarea-container">
-    <label>Descripción:</label>
+    <label>Presentación:</label>
     <textarea id="editor" name="descripcion">{{ $method == 'PUT' ? $element->descripcion : '' }}</textarea>
   </div>
 

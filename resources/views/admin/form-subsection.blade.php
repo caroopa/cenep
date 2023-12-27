@@ -84,7 +84,7 @@
     </div>
   @endif
 
-  @if ($method == 'PUT')
+  @if ($method == 'PUT' && $belong->tipo != 'inv')
     <div class="input-container">
       <label>Enviar a:</label>
       <select class="form-select" name="seccion">
